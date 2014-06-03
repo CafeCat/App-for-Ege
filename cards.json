@@ -1,0 +1,8 @@
+{
+  "0": ["frog_blank.png","frog.png"],
+  "1": ["frog.png","alligato_blank.png"],
+  "2": ["alligato_blank.png","alligato.png"],
+  "3": ["alligato.png","kaplumbaga_blank.png"],
+  "4": ["kaplumbaga_blank.png","kaplumbaga.png"],
+  "5": ["kaplumbaga.png","frog_blank.png"]
+}
